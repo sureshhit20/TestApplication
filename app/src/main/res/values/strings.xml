@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drink Adviser</string>
+    <string name="find_beer">Find Drink!</string>
+    <string name="brands">click and find</string>
+    <string-array name="beer_colors">
+        <item>Diet</item>
+        <item>Normal</item>
+        <item>Sweet</item>
+        <item>Hot</item>
+    </string-array>
+</resources>
